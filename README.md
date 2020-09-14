@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Darryl Smith. Im a former field engineer looking to get into the Developer and/or Data industry.
 
+- :seedling: I’m currently learning [Machine Learning on Udemy](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
+- :books: I previously finished [Python Programming](https://generalassemb.ly/education/python-programming/) and [Data Science](https://generalassemb.ly/education/data-science/) at [General Assembly](https://generalassemb.ly)
 <!--
 **ds185216/ds185216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
