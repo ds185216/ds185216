@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Darryl Smith. Im a former Field Engineer looking to get into the Developer and/or Data industry.
+My name is Darryl Smith.
 - :seedling: I'm currently learning [Machine Learning on Udemy](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
 - :books: I previously finished [Python Programming](https://generalassemb.ly/education/python-programming/) and [Data Science](https://generalassemb.ly/education/data-science/) at [General Assembly](https://generalassemb.ly)
 - :zap: Fun fact: I provided a solution for a KODI streaming app that is [still in use to this day](https://forum.kodi.tv/showthread.php?tid=243756&pid=2454782&highlight=dash#pid2454782)
