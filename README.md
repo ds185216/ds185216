@@ -1,5 +1,6 @@
 ### Hi there 👋 
 My name is Darryl Smith.
+- 🔭 I'm a specialist and enthusiast about all things IoT
 - :books: I previously finished [Python Programming](https://generalassemb.ly/education/python-programming/) and [Data Science](https://generalassemb.ly/education/data-science/) at [General Assembly](https://generalassemb.ly)
 - :zap: Fun fact: I provided a solution for a KODI streaming app that is [still in use to this day](https://forum.kodi.tv/showthread.php?tid=243756&pid=2454782&highlight=dash#pid2454782)
 
